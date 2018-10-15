@@ -1,0 +1,35 @@
+article{
+
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    /*border: 2px solid black;*/
+
+
+}
+.cash{
+    background-color: #eeeeee;
+    font-weight: bold;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: white;
+    
+}
+.h1{
+    background-color: black;
+}
+.card{
+    margin: 10px;
+}
+.pro{
+    background-color: #52b050;
+    color: white;
+}
+.btn{
+    width: 105px;
+    border-radius: 2px;
+}

@@ -1,0 +1,65 @@
+.dollar{
+    color: #858581;
+    font-weight: bold;
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*align-items: center;*/
+    padding: 3px;
+    /*border: 1px solid black;*/
+    /*height: 200%;*/
+}
+.hard{
+    border-color: #ec9058 !important;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+.card{
+    margin: 5px;
+    border: 2px solid #d1d2d5;
+}
+.book{
+    color: #111b37;
+    font-size: 20px;
+}
+.mass{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    width: 220px
+}
+
+.market{
+    height: 130px;
+
+}
+.from{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.free{
+    color: #b4424c;
+    font-weight: bold;
+}
+.fro{
+    color: gray;
+}
+.hard-cover{
+    display: flex;
+    flex-wrap: wrap;
+    width: 150px;
+}
+.frr{
+    color: #b4424c;
+    
+}
+.hard-{
+
+        display: flex;
+    flex-wrap: wrap;
+    width: 160px;
+
+}

@@ -1,0 +1,32 @@
+.color{
+    border-bottom: 1px solid grey;
+}
+.p{
+    color: gray;
+    margin-top: 2px;
+    margin-bottom: 0px;
+}
+.card-title{
+    margin-bottom: 5px !important;
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+    border: none;
+}
+.card:hover{
+    border: 1px solid grey !important;
+    
+}
+.card-img-top{
+    height: 200px;
+    width: 250px;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,50 @@
+.stars{
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+.free{
+    color: green;
+}
+.img{
+    height: 170px;
+    width: 170px;
+}
+.imgs{
+    display: flex;
+    /*height: 100px;
+    width: 100PX;*/
+    justify-content: center;
+    margin-top: 10PX;
+}
+.h5{
+    color: black;
+    margin-bottom: 2px;
+}
+.name{
+    color: #aeaeaf;
+
+}
+.card-title{
+    margin-bottom: 2px;
+}
+.name:hover{
+    color: #aeaeaf;
+}
+.h5:hover{
+    color: black;
+    
+}
+article{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+    border: none;
+    background-color: #ffffff;
+}
+body{
+    background-color: #eee;
+}

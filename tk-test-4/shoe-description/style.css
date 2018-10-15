@@ -1,0 +1,71 @@
+article{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    flex-wrap: wrap;
+}
+.first-img{
+    height: 500px;
+    width: 500px;
+}
+.prize{
+    font-weight: bold;
+}
+.card-body{
+    /*padding-bottom: 0px;*/
+    
+}
+.card-text{
+    margin-bottom: 2px;
+    font-weight: bold;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+
+}
+.shoe{
+   font-family: 'Gloria Hallelujah', cursive;
+   color: grey;
+   font-size: 12px;
+   font-weight: bold;
+   margin-bottom: 0px;
+}
+.card-title{
+    margin-bottom: 10px;
+}
+.card{
+    border: none;
+}
+.ora
+{
+    display: flex;
+    flex-direction: column;
+}
+.second-img{
+    height: 60px;
+    width: 60px;
+    border: 4px solid grey;
+
+}
+.spa{
+    display: flex;
+    justify-content: space-between;
+}
+.find{
+    color: black;
+
+}
+.find:hover{
+    color: black;
+    
+}
+button{
+    width: 200px;
+    padding: 8px;
+    border: none;
+
+}
+.add{
+    background-color: orangered;
+    color: white;
+    /*font-weight: bold;*/
+}
